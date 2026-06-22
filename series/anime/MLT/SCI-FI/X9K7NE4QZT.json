@@ -1,0 +1,62 @@
+{
+  "1": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "title": "Naruto",
+    "id": "1",
+    "path": "naruto"
+  },
+  "2": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmNTc3OWQtOTVmMy00MGZlLTk3N2QtM2YwZDE5MWVjZmM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "title": "Kaiju No. 8",
+    "id": "2",
+    "path": "kaiju-no-8"
+  },
+  "3": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQwNjk3MDItNDAxMS00YTQ2LWEyNDctMGYyZTE5OGQxNGQ1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+    "title": "Jobless Reincarnation",
+    "id": "3",
+    "path": "jobless-reincarnation"
+  },
+  "4": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "title": "Naruto Shippuden",
+    "id": "4",
+    "path": "naruto-shippuden"
+  },
+  "5": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+    "title": "Dan Da Dan",
+    "id": "5",
+    "path": "dan-da-dan"
+  },
+  "6": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_.jpg",
+    "title": "Dr. Stone",
+    "id": "6",
+    "path": "dr-stone"
+  },
+  "7": {
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_.jpg",
+    "title": "Demon Slayer",
+    "id": "7",
+    "path": "demon-slayer"
+  },
+  "8": {
+    "poster": "https://nxt-play.github.io/web/series/anime/AN1NXT5/%20i-got-cheat-skills-in-another-world/media/i-got-cheat-skills-in-another-world-poster.jpg",
+    "title": "I Got a Cheat Skill in Another World",
+    "id": "8",
+    "path": "i-got-cheat-skills-in-another-world"
+  },
+  "9": {
+    "poster": "https://nxt-play.github.io/web/series/anime/AN2NXT9/solo-leveling/media/solo-leveling-poster.jpg",
+    "title": "Solo Leveling",
+    "id": "9",
+    "path": "solo-leveling"
+  },
+  "10": {
+    "poster": "https://nxt-play.github.io/web/series/anime/AN1NXT5/death-note/media/death-note-poster.jpg",
+    "title": "Death Note",
+    "id": "10",
+    "path": "death-note"
+  }
+}
